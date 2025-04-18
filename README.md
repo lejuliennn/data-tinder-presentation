@@ -4,10 +4,10 @@
 
 ## 📸 Demo
 
-![App Screenshot Start](images/screenshot1.png)
-![App Screenshot Labeling](images/screenshot2.png)
-![App Screenshot Labeling Progress](images/screenshot3.png)
-![App Screenshot Result](images/screenshot4.png)
+<img src="images/screenshot1.png" alt="App Screenshot Start" width="600"/>
+<img src="images/screenshot2.png" alt="App Screenshot Labeling" width="600"/>
+<img src="images/screenshot3.png" alt="App Screenshot Labeling Progress" width="600"/>
+<img src="images/screenshot4.png" alt="App Screenshot Result" width="600"/>
 
 ## 📦 Installation
 
@@ -17,12 +17,3 @@ git clone https://github.com/lejuliennn/data-tinder-presentation.git
 
 # Navigate into the directory
 cd data-tinder-presentation
-```
-
-```python
-# Start webserver
-python -m http.server 8000
-
-# visit local page
-http://localhost:8000
-```
