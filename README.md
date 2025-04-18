@@ -1,6 +1,6 @@
 # MaTElDa BIFOLD-Day Presentation
 
-![GitHub last commit](https://img.shields.io/github/last-commit/lejuliennn/your-repo)
+![GitHub last commit](https://img.shields.io/github/last-commit/lejuliennn/data-tinder-presentation)
 
 ## 📸 Demo
 
