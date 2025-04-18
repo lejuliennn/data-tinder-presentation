@@ -1,0 +1,10 @@
+{
+    "highlights": [
+      { "cardId": 0, "row": 4, "column": "Name", "correct": true },
+      { "cardId": 1, "row": 4, "column": "Name", "correct": true },
+      { "cardId": 2, "row": 7, "column": "UsageDifficulty", "correct": true },
+      { "cardId": 3, "row": 2, "column": "Offense", "correct": false },
+      { "cardId": 4, "row": 60, "column": "Mobility", "correct": true }
+    ]
+  }
+  

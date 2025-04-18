@@ -1,0 +1,2 @@
+- start webserver: python -m http.server 8000
+- visit page: http://localhost:8000
