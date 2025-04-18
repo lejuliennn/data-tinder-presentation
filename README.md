@@ -4,10 +4,10 @@
 
 ## 📸 Demo
 
-<img src="images/screenshot1.png" alt="App Screenshot Start" width="600"/>
-<img src="images/screenshot2.png" alt="App Screenshot Labeling" width="600"/>
-<img src="images/screenshot3.png" alt="App Screenshot Labeling Progress" width="600"/>
-<img src="images/screenshot4.png" alt="App Screenshot Result" width="600"/>
+<img src="images/screenshot1.png" alt="App Screenshot Start" width="200"/>
+<img src="images/screenshot2.png" alt="App Screenshot Labeling" width="200"/>
+<img src="images/screenshot3.png" alt="App Screenshot Labeling Progress" width="200"/>
+<img src="images/screenshot4.png" alt="App Screenshot Result" width="200"/>
 
 ## 📦 Installation
 
