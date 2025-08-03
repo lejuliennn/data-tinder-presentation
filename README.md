@@ -8,10 +8,15 @@ We present Matelda, an interactive system for multi-table error detection that c
 
 ## 📸 Screenshots
 
-<img src="images/screenshot1.png" alt="App Screenshot Start" width="250"/>
-<img src="images/screenshot2.png" alt="App Screenshot Labeling" width="250"/>
-<img src="images/screenshot3.png" alt="App Screenshot Labeling Progress" width="250"/>
-<img src="images/screenshot4.png" alt="App Screenshot Result" width="250"/>
+<table>
+  <tr>
+    <td><img src="images/screenshot1.png" alt="App Screenshot Start" width="180" /></td>
+    <td><img src="images/screenshot2.png" alt="App Screenshot Labeling" width="180" /></td>
+    <td><img src="images/screenshot3.png" alt="App Screenshot Labeling Progress" width="180" /></td>
+    <td><img src="images/screenshot4.png" alt="App Screenshot Result" width="180" /></td>
+  </tr>
+</table>
+
 
 ## 📦 Installation
 
